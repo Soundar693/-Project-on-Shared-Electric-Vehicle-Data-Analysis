@@ -3,10 +3,10 @@
 # About Aerofit
 
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
-# Project Overview
+### Project Overview
 This project explores data from a fitness equipment business to uncover key patterns, detect anomalies, and derive actionable insights for better strategic decision-making. The analysis focuses on customer behavior, sales performance, and operational efficiency.
 
-# Business Problem
+### Business Problem
 
 The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product with respect to customer characteristics.
 
